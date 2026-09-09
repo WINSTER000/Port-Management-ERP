@@ -170,7 +170,7 @@ The application uses **MySQL**.
 The complete database script is provided in:
 
 ```text
-port_erp.sql`
+port_erp.sql
 ```
 
 ### Setup
